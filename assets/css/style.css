@@ -29,8 +29,9 @@ header h1 {
 
 header a {
     /*This is the styling of the anchors*/
-    color: #fce138
     text-decoration: none;
+    color: #fce138
+    
 }
 
 /*This is the styling section for the nav*/
@@ -89,7 +90,6 @@ section {
 
 /*Hero Sign up Box Form*/
 .hero-form {
-    font color: #024e76;
     background-color: #fce138;
     padding: 20px;
     width: 500px;
@@ -108,11 +108,11 @@ section {
     position: absolute;
     bottom: 120px;
     right: 140px;
-
 }
 .hero-form h3 {
-    margin: 0px
     font-size: 24px;
+    margin: 0px
+    
 }
 
 .hero-form p {
